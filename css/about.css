@@ -1,0 +1,19 @@
+
+ .about-section {
+    padding: 80px 0;
+    background-color: #f8f9fa;
+  }
+  .about-section h2 {
+    margin-bottom: 40px;
+  }
+  .about-section p {
+    font-size: 18px;
+    line-height: 1.8;
+  }
+  .contact-info {
+    margin-top: 50px;
+  }
+  .contact-info i {
+    font-size: 24px;
+    margin-right: 10px;
+  }
